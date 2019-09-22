@@ -1,0 +1,26 @@
+Initialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 (ID=0x1381)
+    Vendor:   NVIDIA
+    VRAM:     984 MB
+    Driver:   25.21.14.1967
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\physics\Simulator\test_build\demo5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\physics\Simulator\test_build\demo5_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\physics\Simulator\test_build\demo5_Data\Managed\System.dll (this message is harmless)
+desktop: 1680x1050 61Hz; virtual: 3360x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
